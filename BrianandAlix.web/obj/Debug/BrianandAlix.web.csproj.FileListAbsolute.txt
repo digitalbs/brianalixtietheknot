@@ -1,0 +1,5 @@
+C:\Users\Brians\Documents\GitHub\Brian-and-Alix-\Documents\GitHub\brianandalix\BrianandAlix.web\bin\BrianandAlix.web.dll
+C:\Users\Brians\Documents\GitHub\Brian-and-Alix-\Documents\GitHub\brianandalix\BrianandAlix.web\bin\BrianandAlix.web.pdb
+C:\Users\Brians\Documents\GitHub\Brian-and-Alix-\Documents\GitHub\brianandalix\BrianandAlix.web\obj\Debug\BrianandAlix.web.csprojResolveAssemblyReference.cache
+C:\Users\Brians\Documents\GitHub\Brian-and-Alix-\Documents\GitHub\brianandalix\BrianandAlix.web\obj\Debug\BrianandAlix.web.dll
+C:\Users\Brians\Documents\GitHub\Brian-and-Alix-\Documents\GitHub\brianandalix\BrianandAlix.web\obj\Debug\BrianandAlix.web.pdb
